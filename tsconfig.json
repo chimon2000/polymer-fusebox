@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "es5",
+        "importHelpers": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "experimentalFeatures": true,
+        "allowJs": true,
+        "lib": [
+            "dom",
+            "es2015"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
